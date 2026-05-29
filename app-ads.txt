@@ -399,3 +399,5 @@ adyoulike.com, aff404dd1a704f379acae5190701c9c2, RESELLER
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+video.unrulymedia.com, 703273072, RESELLER
+media.net, 8CU675N41, RESELLER
