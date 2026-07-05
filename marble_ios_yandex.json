@@ -1,1 +1,22 @@
-
+{
+  "version": 1,
+  "countries": [
+    "RU",
+    "BY",
+    "KZ",
+    "KG",
+    "TJ",
+    "TM",
+    "AM",
+    "AZ",
+    "GE",
+    "CN",
+    "IR",
+    "IQ",
+    "SY",
+    "YE",
+    "LB",
+    "VN",
+    "CU"
+  ]
+}
